@@ -9,10 +9,8 @@ namespace GitTest
       Console.WriteLine("Develop logic");
 
       Console.WriteLine("New Develop Logic");
-      Console.WriteLine("No conflict from master");
+
       Console.WriteLine("One more from dev");
-      Console.WriteLine("master");
-      Console.WriteLine("dev");
     }
   }
 }
