@@ -11,6 +11,8 @@ namespace GitTest
       Console.WriteLine("New Develop Logic");
 
       Console.WriteLine("One more from dev");
+
+      Console.WriteLine("dev");
     }
   }
 }
