@@ -6,7 +6,9 @@ namespace GitTest
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Custom logic");
+      Console.WriteLine("Develop logic");
+
+      Console.WriteLine("New Develop Logic");
     }
   }
 }
