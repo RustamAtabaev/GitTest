@@ -8,6 +8,8 @@ namespace GitTest
     {
       Console.WriteLine("first");
 
+      Console.WriteLine("second");
+
     }
   }
 }
