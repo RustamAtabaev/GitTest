@@ -16,9 +16,11 @@ namespace GitTest
 
       Console.WriteLine("front");
 
-      Console.WriteLine("front4");
+      Console.WriteLine("test");
 
-      Console.WriteLine("123 confl555ict front");
+      Console.ReadLine();
+
+      Console.WriteLine("new line");
 
 
     }
