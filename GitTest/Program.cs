@@ -24,6 +24,7 @@ namespace GitTest
 
       Console.WriteLine("new line");
 
+      Console.WriteLine("new line");
 
     }
   }
