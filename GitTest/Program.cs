@@ -9,6 +9,12 @@ namespace GitTest
       Console.WriteLine("Develop logic");
 
       Console.WriteLine("New Develop Logic");
+
+      Console.WriteLine("One more from dev");
+
+      Console.WriteLine("dev");
+
+      Console.WriteLine("front");
     }
   }
 }
