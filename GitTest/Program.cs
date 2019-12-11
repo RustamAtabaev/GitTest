@@ -20,6 +20,8 @@ namespace GitTest
 
       Console.ReadLine();
 
+      Console.WriteLine("new line");
+
 
     }
   }
