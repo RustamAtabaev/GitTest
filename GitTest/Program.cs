@@ -13,6 +13,8 @@ namespace GitTest
       Console.WriteLine("One more from dev");
 
       Console.WriteLine("dev");
+
+      Console.WriteLine("front");
     }
   }
 }
