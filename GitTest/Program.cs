@@ -20,6 +20,8 @@ namespace GitTest
 
       Console.WriteLine("dev1");
 
+      Console.WriteLine("dev2");
+
 
     }
   }
