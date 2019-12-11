@@ -26,8 +26,7 @@ namespace GitTest
 
       Console.WriteLine("new line");
 
-      Console.WriteLine("dev test");
-
+      Console.WriteLine("dev");
     }
   }
 }
