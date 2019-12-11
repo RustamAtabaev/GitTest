@@ -18,9 +18,6 @@ namespace GitTest
 
       Console.WriteLine("front4");
 
-      Console.WriteLine("dev1");
-
-      Console.WriteLine("dev2");
       Console.WriteLine("conflict");
 
 
