@@ -7,6 +7,7 @@ namespace GitTest
     static void Main(string[] args)
     {
       Console.WriteLine("Develop sdflogic");
+      Console.WriteLine("Develop sdflogic");
 
     }
   }
