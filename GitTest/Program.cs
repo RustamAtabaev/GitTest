@@ -2,15 +2,17 @@
 
 namespace GitTest
 {
-  class Program
-  {
-    static void Main(string[] args)
+    class Program
     {
-      Console.WriteLine("comit 20 53");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("comit 1");
 
-      Console.WriteLine("comit 20 57");
+            Console.WriteLine("comit 2");
 
-      Console.WriteLine("Comit 20 56");
+            Console.WriteLine("Comit 3");
+
+            Console.WriteLine("Comit 4");
         }
-  }
+    }
 }
