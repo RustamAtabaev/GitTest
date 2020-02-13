@@ -8,7 +8,7 @@ namespace GitTest
   {
       public void Fun()
       {
-          Console.WriteLine("f1");
+          Console.WriteLine("f2");
       }
   }
 }
