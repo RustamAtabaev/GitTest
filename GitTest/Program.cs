@@ -8,7 +8,7 @@ namespace GitTest
         {
             Console.WriteLine("comit 1");
 
-            Console.WriteLine("comit 2");
+            Console.WriteLine("comit 2 f1");
 
             Console.WriteLine("Comit 3");
 
