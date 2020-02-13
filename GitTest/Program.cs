@@ -6,22 +6,7 @@ namespace GitTest
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("first");
-
-      Console.WriteLine("second");
-      Console.WriteLine("Develop sdflogic");
-      Console.WriteLine("Develop violet");
-      Console.WriteLine("Develop sdflogic");
-      Console.WriteLine("Develop sdflogic");
-
-      Console.WriteLine("Develop sdflogic");
-
-
-      Console.WriteLine("Develop sdflo4564gic");
-      Console.WriteLine("Develop new");
-
-
-
+      Console.WriteLine("comit 20 53");
     }
   }
 }
