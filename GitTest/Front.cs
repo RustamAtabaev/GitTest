@@ -6,5 +6,9 @@ namespace GitTest
 {
   class Front
   {
+      public void Fun()
+      {
+          Console.WriteLine("f1");
+      }
   }
 }
