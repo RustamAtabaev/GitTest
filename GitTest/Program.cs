@@ -6,7 +6,7 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("comit 1");
+            Console.WriteLine("comit 1 m1");
 
             Console.WriteLine("comit 2");
 
