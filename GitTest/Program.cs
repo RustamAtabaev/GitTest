@@ -9,6 +9,7 @@ namespace GitTest
       Console.WriteLine("first");
 
       Console.WriteLine("second");
+      Console.WriteLine("violet");
       Console.WriteLine("Develop sdflogic");
       Console.WriteLine("Develop sdflogic");
       Console.WriteLine("Develop sdflogic");
