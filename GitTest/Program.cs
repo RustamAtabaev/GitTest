@@ -6,13 +6,8 @@ namespace GitTest
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Develop logic");
+      Console.WriteLine("Comit 20 56");
 
-      Console.WriteLine("New Develop Logic");
-      Console.WriteLine("No conflict from master");
-      Console.WriteLine("One more from dev");
-      Console.WriteLine("master");
-      Console.WriteLine("dev");
     }
   }
 }
