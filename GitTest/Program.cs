@@ -2,32 +2,17 @@
 
 namespace GitTest
 {
-  class Program
-  {
-    static void Main(string[] args)
+    class Program
     {
-      Console.WriteLine("first");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("comit 1 m1");
 
-      Console.WriteLine("second");
-      Console.WriteLine("violet");
-      Console.WriteLine("Develop sdflogic");
-      Console.WriteLine("Develop sdflogic");
-      Console.WriteLine("Develop sdflogic");
+            Console.WriteLine("comit 2");
 
-      Console.WriteLine("Develop sdflogic");
+            Console.WriteLine("Comit 3 m2");
 
-      Console.WriteLine("Develop sdflogic456");
-      Console.WriteLine("Develop sdflogic456");
-      Console.WriteLine("Develop sdflogic456");
-
-
-
-
-
-
-
-
-
+            Console.WriteLine("Comit 4");
+        }
     }
-  }
 }
